@@ -8,7 +8,7 @@
 Welcome to my Github page! I am Gloria and I am currently a data scientist! 
 I am hoding PhD degree from Nanyang Technology University in Singapore.
 
-My previous experience: Fault diagnosis for HVAC system, Solar/PV/load forecasting, Robotics and Computer Vision. 
+My previous experience: Solar/PV/load forecasting, Robotics and Computer Vision. 
 
 <img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
