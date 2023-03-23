@@ -16,10 +16,6 @@ My previous experience: Fault diagnosis for HVAC system, Solar/PV/load forecasti
 - 🌱 
  ### Languages and Tools:
 
-
-<p>
-    <img width="55%" align="right" alt="Sachin's github stats" src="https://github-readme-stats.vercel.app/api?username=sachinchaturvedi93&show_icons=true&hide_border=true"/>
-
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
@@ -42,6 +38,7 @@ My previous experience: Fault diagnosis for HVAC system, Solar/PV/load forecasti
  <!-- Your github readme stats
 You can use this api: https://github.com/Gloria0702/github-readme-stats
 -->
+    <img width="55%" align="Bottom" alt="Gloria's github stats" src="https://github-readme-stats.vercel.app/api?username=Gloria0702&show_icons=true&hide_border=true"/>
 - 💬 Ask me about programming and deep learning in general, I am always <br> available to help and learn together.
 
 
