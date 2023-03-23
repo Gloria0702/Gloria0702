@@ -37,6 +37,7 @@ My previous experience: Solar/PV/load forecasting, Robotics and Computer Vision.
  <!-- Your github readme stats
 You can use this api: https://github.com/Gloria0702/github-readme-stats
 -->
+[![Gloria's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gloria0702)](https://github.com/anuraghazra/github-readme-stats)
 - 💬 Ask me about programming and deep learning in general, I am always <br> available to help and learn together.
 
 
