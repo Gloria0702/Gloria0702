@@ -3,7 +3,7 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Gloria0702)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/huanyue-liao-62499012b/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alice0702liao@gmail.com)
+
 
 Welcome to my Github page! I am Gloria and I am currently a data scientist! 
 I am hoding PhD degree from Nanyang Technology University in Singapore.
